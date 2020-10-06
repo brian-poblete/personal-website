@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Brian Poblete's Personal Website
 
 You can use the [editor on GitHub](https://github.com/brian-poblete/personal-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Personal Project
+My first website was the "Culture at MacArthur Park" page, which displayed remarkable pieces of art scattered throughout the area. https://app-806.ucm.kyrilov.xyz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
