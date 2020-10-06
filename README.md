@@ -1,6 +1,6 @@
 ## Welcome to Brian Poblete's Personal Website
 
-Hello there, I am a Freshman student at UC Merced, and I am majoring in Computer Science and Engineering. I am passionate about Computer Science because in this field I am able to learn how to develop websites, mobile applications and othellr skills to develop the technology of tomorrow. 
+Hello there, I am a Freshman student at UC Merced, and I am majoring in Computer Science and Engineering. I am passionate about Computer Science because in this field I am able to learn skills that will help me develop the technology of tommorrow. 
 
 I will be the first Software Engineer in my family and I am excited at the possibility of working in a technology company where I will be learning and contributing in building technology that people around the world might use. 
 
